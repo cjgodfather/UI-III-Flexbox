@@ -161,11 +161,12 @@ nav {
   position: fixed;
   z-index: 1;
   top: 0;
+  left: 0;
 }
 
 nav ul {
   display: flex;
-  width: 89%;
+  width: 88%;
   height: 100%;
   flex-wrap: wrap;
 }
